@@ -1,3 +1,10 @@
+# Tutorial-GIT-y-GitHub_con_VuePress
+
+## Community :beers:
+- [Instagram](https://instagram.com/codegenial)
+- [Twitter](https://twitter.com/codegenial)
+- [Facebook](https://facebook.com/codegenial)
+
 ---
 home: true
 heroImage: /img/hero.png
